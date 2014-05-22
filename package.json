@@ -1,0 +1,24 @@
+{
+  "name": "dogfalo",
+  "version": "0.0.0",
+  "description": "dogfalo.com website",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Dogfalo/dogfalo.git"
+  },
+  "author": "Alvin Wang",
+  "license": "BSD",
+  "gitHead": "6b69083f0450e519d7ba54cf63b3d6ac82a47571",
+  "dependencies": {
+    "express": "~4.3.0",
+    "logfmt": "~1.1.2"
+  }
+{
+"engines": {
+"node": "0.10.x"
+}
+}
